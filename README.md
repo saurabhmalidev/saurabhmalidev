@@ -64,7 +64,7 @@ End-to-end judicial analytics pipeline for India's e-Courts system.
 `PostgreSQL` `ADF` `ADLS Gen2` `Databricks` `Unity Catalog` `Key Vault` `Delta Lake` `Synapse` `Power BI`
 
 **[AWS YouTube Data Analytics Pipeline](https://github.com/saurabhmalidev/youtube-data-pipeline-aws-s3-glue-lambda-athena-stepfunction)**
-Serverless analytics pipeline for YouTube data.
+Serverless analytics pipeline for YouTube data. \
 `S3` `Lambda` `IAM` `Glue` `Athena` `SNS` `Step Functions`
 
 ---
