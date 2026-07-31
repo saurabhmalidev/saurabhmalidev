@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/saurabhmali21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:saurabhmali.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="./Resume/SaurabhMali_DataEngineer.pdf"><img src="https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+  📄 <a href="https://raw.githubusercontent.com/saurabhmalidev/saurabhmalidev/main/Resume/SaurabhMali_DataEngineer.pdf">
+    <b>Click here to download my resume</b>
+  </a>
 </p>
 
 ---
