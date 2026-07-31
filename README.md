@@ -18,6 +18,7 @@
 
 Data Engineer with experience across AWS and Azure, building ETL/ELT pipelines with Databricks, PySpark, and Delta Lake. Background also includes Big Data, GenAI/RAG, NLP, data modeling, distributed systems, CI/CD, and PostgreSQL.
 
+Outside of data, I like philosophy, psychology, history, and sociology — it shapes how I think about the people and context behind the data, not just the pipelines.
 ---
 ### ⚙️ Tech Stack 
 
@@ -79,3 +80,5 @@ B.Tech, Computer Engineering, CGPA 8.7 (2019–2023)
 - LinkedIn: [in/saurabhmali21](https://www.linkedin.com/in/saurabhmali21/)
 - Email: saurabhmali.dev@gmail.com
 - Resume: [SaurabhMali_DataEngineer.pdf](./Resume/SaurabhMali_DataEngineer.pdf)
+
+### 📫 Extras
