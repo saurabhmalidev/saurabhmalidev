@@ -67,7 +67,8 @@ Serverless analytics pipeline for YouTube data.
 
 ### 🎓 Education
 
-**G.H. Raisoni College of Engineering and Management, Pune** — B.Tech, Computer Engineering, CGPA 8.7 (2019–2023)
+**G.H. Raisoni College of Engineering and Management, Pune** 
+B.Tech, Computer Engineering, CGPA 8.7 (2019–2023)
 
 ---
 
@@ -84,4 +85,4 @@ Serverless analytics pipeline for YouTube data.
 
 - LinkedIn: [in/saurabhmali21](https://www.linkedin.com/in/saurabhmali21/)
 - Email: saurabhmali.dev@gmail.com
-- Resume: [SaurabhMali_DataEngineer.pdf](./SaurabhMali_DataEngineer.pdf)
+- Resume: [SaurabhMali_DataEngineer.pdf](./Resume/SaurabhMali_DataEngineer.pdf)
