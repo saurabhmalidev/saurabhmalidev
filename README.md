@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About
 
-Data Engineer with experience across AWS and Azure, building ETL/ELT pipelines with Databricks, PySpark, and Delta Lake. Background also includes Big Data, GenAI/RAG, NLP, data modeling, distributed systems, CI/CD, and PostgreSQL.\
+Data Engineer with experience across AWS and Azure, building ETL/ELT pipelines with Databricks, PySpark, and Delta Lake. Background also includes Big Data, GenAI/RAG, NLP, data modeling, distributed systems, CI/CD, and PostgreSQL.
 
 Outside of data, I like philosophy, psychology, history, and sociology — it shapes how I think about the people and context behind the data, not just the pipelines.
 
