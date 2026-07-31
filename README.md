@@ -17,61 +17,11 @@
 Data Engineer with experience across AWS and Azure, building ETL/ELT pipelines with Databricks, PySpark, and Delta Lake. Background also includes Big Data, GenAI/RAG, NLP, data modeling, distributed systems, CI/CD, and PostgreSQL.
 
 ---
-## ⚙️ Tech Stack
-
-### 💻 Languages
-Python • SQL • Go • C • C++
-
-### 🗄️ Databases
-PostgreSQL • MySQL • Azure Cosmos DB
-
-### 🏗️ Data Engineering & Architecture
-Big Data • ETL • CDC/CDF • Medallion Architecture • System Design • GenAI • RAG • Agile
-
-### ☁️ Cloud & Data Platforms
-
-**Azure**
-- Azure Data Factory (ADF)
-- Azure Databricks
-- Azure Synapse Analytics
-- Azure Storage Account
-- Azure Key Vault
-- Microsoft Fabric
-- Azure DevOps
-- Cosmos DB
-
-**AWS**
-- Amazon EMR
-- Amazon S3
-- Amazon EC2
-- Amazon Redshift
-- Relational Database Service (RDS)
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=flat-square&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
+### ⚙️ Tech Stack 
+**Languages:** Python, SQL, C, C++, Go \ 
+**Databases:** PostgreSQL, MySQL, Azure Cosmos DB \ 
+**Architecture & Concepts:** Big Data, System Design, GenAI, RAG, Agile, CDC/CDF, Medallion Architecture \ **Azure:** Data Factory (ADF), Synapse Analytics, Key Vault, Storage Account, DevOps, Cosmos DB, Microsoft Fabric, Databricks \ 
+**AWS:** EMR, S3, EC2, Redshift, Relational Databases
 
 ---
 
