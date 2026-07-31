@@ -71,7 +71,7 @@ Serverless analytics pipeline for YouTube data. \
 
 ### 🎓 Education
 
-**G.H. Raisoni College of Engineering and Management, Pune** 
+**G.H. Raisoni College of Engineering and Management, Pune** \
 B.Tech, Computer Engineering, CGPA 8.7 (2019–2023)
 
 ---
