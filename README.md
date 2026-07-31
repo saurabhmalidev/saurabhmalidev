@@ -2,13 +2,13 @@
 <h3 align="center">Data Engineer | Azure • AWS • Databricks • PySpark • SQL • Python</h3>
 
 <p align="center">
-  Data Engineer with 2.2 years building and optimizing scalable ETL pipelines processing 1TB+ of enterprise data.
+  Data Engineer with 2.2 years of experience building and optimizing scalable ETL pipelines processing 1TB+ of enterprise data.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saurabhmali21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:saurabhmali.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="./SaurabhMali_DataEngineer.pdf"><img src="https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
+  [![Resume](https://img.shields.io/badge/Resume-555555?style=for-thebadge&logo=readdotcv&logoColor=white)](./Resume/SaurabhMali_DataEngineer.pdf)
 </p>
 
 ---
