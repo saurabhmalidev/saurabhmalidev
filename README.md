@@ -10,7 +10,7 @@
   <a href="mailto:saurabhmali.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="./Resume/SaurabhMali_DataEngineer.pdf"><img src="https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
   <a href="https://raw.githubusercontent.com/saurabhmalidev/saurabhmalidev/main/Resume/SaurabhMali_DataEngineer.pdf">
-  <img src="https://img.shields.io/badge/Download%20Resume-333333?style=for-the-badge&logo=download&logoColor=white" alt="Download Resume">
+  <img src="https://share.google/ls2FPXe5GKvGFJQgo">
 </a>
 </p>
 
