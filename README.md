@@ -19,13 +19,13 @@ Data Engineer with experience across AWS and Azure, building ETL/ELT pipelines w
 ---
 ### ⚙️ Tech Stack 
 
-**Languages:** Python, SQL, C, C++, Go \ 
+**Languages:** Python, SQL, C, C++, Go 
 
-**Databases:** PostgreSQL, MySQL, Azure Cosmos DB \ 
+**Databases:** PostgreSQL, MySQL, Azure Cosmos DB
 
-**Architecture & Concepts:** Big Data, System Design, GenAI, RAG, Agile, CDC/CDF, Medallion Architecture \ 
+**Architecture & Concepts:** Big Data, System Design, GenAI, RAG, Agile, CDC/CDF, Medallion Architecture 
 
-**Azure:** Data Factory (ADF), Synapse Analytics, Key Vault, Storage Account, DevOps, Cosmos DB, Microsoft Fabric, Databricks \ 
+**Azure:** Data Factory (ADF), Synapse Analytics, Key Vault, Storage Account, DevOps, Cosmos DB, Microsoft Fabric, Databricks
 
 **AWS:** EMR, S3, EC2, Redshift, Relational Databases
 
