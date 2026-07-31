@@ -55,11 +55,11 @@ Data Engineer with experience across AWS and Azure, building ETL/ELT pipelines w
 
 ### 🚀 Featured Projects
 
-**[Azure E-Courts Data Pipeline](https://github.com/saurabhmalidev/ecourts-india-data-pipeline)**
+**[Azure E-Courts Judicial Data Pipeline](https://github.com/saurabhmalidev/ecourts-india-data-pipeline)**
 End-to-end judicial analytics pipeline for India's e-Courts system.
 `ADF` `ADLS Gen2` `Databricks` `Delta Lake` `Synapse` `Power BI`
 
-**[AWS YouTube Data Pipeline](https://github.com/saurabhmalidev/youtube-data-pipeline-aws-s3-glue-lambda-athena-stepfunction)**
+**[AWS YouTube Data Analytics Pipeline](https://github.com/saurabhmalidev/youtube-data-pipeline-aws-s3-glue-lambda-athena-stepfunction)**
 Serverless analytics pipeline for YouTube data.
 `S3` `Lambda` `Glue` `Athena` `EventBridge` `Step Functions`
 
