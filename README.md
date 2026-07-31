@@ -61,11 +61,11 @@ Outside of data, I am highly curious and have an interest in philosophy, psychol
 
 **[Azure E-Courts Judicial Data Pipeline](https://github.com/saurabhmalidev/ecourts-india-data-pipeline)**
 End-to-end judicial analytics pipeline for India's e-Courts system.
-`ADF` `ADLS Gen2` `Databricks` `Delta Lake` `Synapse` `Power BI`
+`PostgreSQL` `ADF` `ADLS Gen2` `Databricks` `Unity Catalog` `Key Vault` `Delta Lake` `Synapse` `Power BI`
 
 **[AWS YouTube Data Analytics Pipeline](https://github.com/saurabhmalidev/youtube-data-pipeline-aws-s3-glue-lambda-athena-stepfunction)**
 Serverless analytics pipeline for YouTube data.
-`S3` `Lambda` `Glue` `Athena` `EventBridge` `Step Functions`
+`S3` `Lambda` `IAM` `Glue` `Athena` `SNS` `Step Functions`
 
 ---
 
@@ -78,8 +78,7 @@ B.Tech, Computer Engineering, CGPA 8.7 (2019–2023)
 
 ### 📫 Connect
 
-- LinkedIn: [in/saurabhmali21](https://www.linkedin.com/in/saurabhmali21/)
+- LinkedIn: [/saurabhmali21](https://www.linkedin.com/in/saurabhmali21/)
 - Email: saurabhmali.dev@gmail.com
 - Resume: [SaurabhMali_DataEngineer.pdf](./Resume/SaurabhMali_DataEngineer.pdf)
 
-### 📫 Extras
