@@ -74,15 +74,6 @@ B.Tech, Computer Engineering, CGPA 8.7 (2019–2023)
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saurabhmalidev&show_icons=true&theme=default">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhmalidev&layout=compact">
-</p>
-
----
-
 ### 📫 Connect
 
 - LinkedIn: [in/saurabhmali21](https://www.linkedin.com/in/saurabhmali21/)
