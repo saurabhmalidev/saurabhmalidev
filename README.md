@@ -52,7 +52,7 @@ Outside of data, I am highly curious and have an interest in philosophy, psychol
 - Developed CI/CD pipelines in Azure DevOps to automate deployment of ADF pipelines and Databricks notebooks across environments.
 
 **Research Intern: Big Data Analytics — Indian Institute of Tropical Meteorology, Pune** · *Jun 2022 – Feb 2023*
-- Processed large-scale meteorological datasets using Python, OpenCV, and Tobac; migrated legacy R workflows to Python.
+- Worked on large-scale geo-spatial meteorological datasets, Spark processing, ETL transformation on structured data, Data Validation, and Segmentation.
 - Built ML-based cloud identification and trajectory prediction models using K-Means clustering and computer vision.
 
 ---
