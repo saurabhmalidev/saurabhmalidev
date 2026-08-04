@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Saurabh Mali 👋</h1>
-<h3 align="center">Data Engineer | Azure • AWS • Databricks • PySpark • SQL • Python</h3>
+<h3 align="center">Data Engineer | Big Data • Azure • AWS • Databricks • PySpark • SQL • Python</h3>
 
 <p align="center">
-  Data Engineer with 2.2 years of experience building and optimizing scalable ETL pipelines processing 1TB+ of enterprise data.
+  Data Engineer with 3 years of experience in big data processing, building and optimizing scalable ETL pipelines for enterprise data.
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Outside of data, I am highly curious and have an interest in philosophy, psychol
 - Built a scalable PySpark transformation framework using Delta Lake / Databricks UniForm for judicial analytics.
 - Developed CI/CD pipelines in Azure DevOps to automate deployment of ADF pipelines and Databricks notebooks across environments.
 
-**Data Science Intern — Indian Institute of Tropical Meteorology, Pune** · *Jun 2022 – Jan 2023*
+**Research Intern: Big Data Analytics — Indian Institute of Tropical Meteorology, Pune** · *Jun 2022 – Feb 2023*
 - Processed large-scale meteorological datasets using Python, OpenCV, and Tobac; migrated legacy R workflows to Python.
 - Built ML-based cloud identification and trajectory prediction models using K-Means clustering and computer vision.
 
