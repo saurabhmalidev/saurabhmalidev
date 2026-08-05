@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer | Big Data • Azure • AWS • Databricks • PySpark • SQL • Python</h3>
 
 <p align="center">
-  Data Engineer with 3 years of experience in big data processing, building and optimizing scalable ETL pipelines for enterprise data.
+  Data Engineer with total 3 years of experience in big data processing, building and optimizing scalable ETL pipelines for enterprise data.
 </p>
 
 <p align="center">
