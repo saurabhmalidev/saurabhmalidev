@@ -51,7 +51,7 @@ Outside of data, I am highly curious and have an interest in philosophy, psychol
 - Built a scalable PySpark transformation framework using Delta Lake / Databricks UniForm for judicial analytics.
 - Developed CI/CD pipelines in Azure DevOps to automate deployment of ADF pipelines and Databricks notebooks across environments.
 
-**Research Intern: Big Data Analytics — Indian Institute of Tropical Meteorology, Pune** · *Jun 2022 – Feb 2023*
+**Research Intern: Big Data & Data Science — Indian Institute of Tropical Meteorology, Pune** · *Jun 2022 – Feb 2023*
 - Worked on large-scale geo-spatial meteorological datasets, Spark processing, ETL transformation on structured data, Data Validation, and Segmentation.
 - Built ML-based cloud identification and trajectory prediction models using K-Means clustering and computer vision.
 
