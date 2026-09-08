@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saurabh Mali 👋</h1>
-<h3 align="center">Data Engineer | Big Data • Azure • AWS • Databricks • PySpark • SQL • Python</h3>
+<h3 align="center">Data Engineer | Big Data • Azure • Fabric • AWS • Databricks • PySpark • SQL • Python</h3>
 
 <p align="center">
   Data Engineer with total 3 years of experience in big data processing, building and optimizing scalable ETL pipelines for enterprise data.
